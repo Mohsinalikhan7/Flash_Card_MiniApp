@@ -1,4 +1,4 @@
-# flutter_application_2
+# flash_card_2
 
 A new Flutter project.
 
